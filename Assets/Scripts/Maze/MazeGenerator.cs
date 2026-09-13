@@ -49,6 +49,7 @@ namespace Maze
             if (settings.braiding > 0f)
                 Braid(maze, settings.braiding);
 
+            maze.Seed = seed;
             return maze;
         }
 
