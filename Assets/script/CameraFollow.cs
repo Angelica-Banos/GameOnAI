@@ -3,27 +3,33 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     [Header("Objetivo")]
-    [Tooltip("Transform del objeto que la cámara debe seguir (el jugador).")]
+    [Tooltip("Transform del objeto que la cï¿½mara debe seguir (el jugador).")]
     [SerializeField] private Transform target;
 
     [Header("Ajustes de Seguimiento")]
-    [Tooltip("Distancia relativa entre la cámara y el jugador (Z suele ser -10 en 2D).")]
+    [Tooltip("Distancia relativa entre la cï¿½mara y el jugador (Z suele ser -10 en 2D).")]
     [SerializeField] private Vector3 offset = new Vector3(0f, 1.5f, -10f);
 
-    [Tooltip("Tiempo que tarda la cámara en alcanzar al jugador. Menor número = más rápida.")]
+    [Tooltip("Tiempo que tarda la cï¿½mara en alcanzar al jugador. Menor nï¿½mero = mï¿½s rï¿½pida.")]
     [Range(0.01f, 1f)]
     [SerializeField] private float smoothTime = 0.25f;
 
     private Vector3 currentVelocity = Vector3.zero;
 
+    /// Permite reasignar el objetivo en tiempo de ejecuciÃ³n (por ejemplo, cuando el GameManager instancia al jugador).
+    public void SetTarget(Transform newTarget)
+    {
+        target = newTarget;
+    }
+
     private void LateUpdate()
     {
         if (target == null) return;
 
-        // Posición deseada sumando el desfase (offset)
+        // Posiciï¿½n deseada sumando el desfase (offset)
         Vector3 targetPosition = target.position + offset;
 
-        // Desplazamiento suave con amortiguación
+        // Desplazamiento suave con amortiguaciï¿½n
         transform.position = Vector3.SmoothDamp(transform.position, targetPosition, ref currentVelocity, smoothTime);
     }
 }

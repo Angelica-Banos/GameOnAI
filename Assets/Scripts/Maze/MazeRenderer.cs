@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.Tilemaps;
 
 namespace Maze
@@ -36,6 +38,22 @@ namespace Maze
         [Tooltip("Probabilidad (0-1) de que un callejón sin salida reciba un prop.")]
         [Range(0f, 1f)] [SerializeField] float propChance = 0.3f;
 
+        [Header("Entrada y Salida")]
+        [Tooltip("Prefab interactuable (con interact_with_npc) que marca la entrada del laberinto, en la celda donde empieza a excavarse.")]
+        [SerializeField] GameObject entrancePrefab;
+
+        [Tooltip("Prefab interactuable (con interact_with_npc) que marca la salida del laberinto, en la celda más lejana de la entrada.")]
+        [SerializeField] GameObject exitPrefab;
+
+        GameObject entranceInstance;
+        GameObject exitInstance;
+
+        /// Se dispara cuando el jugador entra en la zona interactuable de la entrada.
+        public event Action OnPlayerEnteredMaze;
+
+        /// Se dispara cuando el jugador entra en la zona interactuable de la salida.
+        public event Action OnPlayerExitedMaze;
+
         public int TilesPerCell => tilesPerCell;
 
         public void Draw(MazeData maze)
@@ -50,6 +68,7 @@ namespace Maze
 
             DrawTiles(maze);
             DrawProps(maze);
+            SpawnInteractables(maze);
         }
 
         public void Clear()
@@ -60,6 +79,13 @@ namespace Maze
                 wallTilemap.ClearAllTiles();
             if (decorTilemap != null)
                 decorTilemap.ClearAllTiles();
+
+            if (entranceInstance != null)
+                Destroy(entranceInstance);
+            if (exitInstance != null)
+                Destroy(exitInstance);
+            entranceInstance = null;
+            exitInstance = null;
         }
 
         public Vector3Int CellToTileCenter(int cx, int cy)
@@ -67,6 +93,43 @@ namespace Maze
             GetBlockRange(cx * 2 + 1, out int startX, out int lengthX);
             GetBlockRange(cy * 2 + 1, out int startY, out int lengthY);
             return new Vector3Int(startX + lengthX / 2, startY + lengthY / 2, 0);
+        }
+
+        public Vector3 CellToWorldPosition(int cx, int cy)
+        {
+            return floorTilemap.GetCellCenterWorld(CellToTileCenter(cx, cy));
+        }
+
+        // Inversa de CellToWorldPosition: de una posición del mundo a la celda lógica más cercana.
+        public Vector2Int WorldToCell(Vector3 worldPosition)
+        {
+            Vector3Int tile = floorTilemap.WorldToCell(worldPosition);
+            int gx = Mathf.FloorToInt((float)tile.x / tilesPerCell);
+            int gy = Mathf.FloorToInt((float)tile.y / tilesPerCell);
+            return new Vector2Int((gx - 1) / 2, (gy - 1) / 2);
+        }
+
+        void SpawnInteractables(MazeData maze)
+        {
+            entranceInstance = SpawnInteractable(entrancePrefab, maze.Start, () => OnPlayerEnteredMaze?.Invoke());
+            exitInstance = SpawnInteractable(exitPrefab, maze.Exit, () => OnPlayerExitedMaze?.Invoke());
+        }
+
+        GameObject SpawnInteractable(GameObject prefab, Vector2Int cell, UnityAction onPlayerEnter)
+        {
+            if (prefab == null)
+                return null;
+
+            Vector3 worldPosition = CellToWorldPosition(cell.x, cell.y);
+            GameObject instance = Instantiate(prefab, worldPosition, Quaternion.identity, transform);
+
+            var interactable = instance.GetComponent<interact_with_npc>();
+            if (interactable != null)
+                interactable.onPlayerEnter.AddListener(onPlayerEnter);
+            else
+                Debug.LogWarning($"MazeRenderer: {prefab.name} no tiene interact_with_npc, no se pudo asignar el comportamiento de entrada/salida.", instance);
+
+            return instance;
         }
 
         void DrawTiles(MazeData maze)
