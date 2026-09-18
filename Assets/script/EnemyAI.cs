@@ -21,6 +21,7 @@ public class EnemyAI : MonoBehaviour
     private Rigidbody2D rb;
     private Rigidbody2D playerRb;
     private GameManager gameManager;
+    private Animator animator;
 
     // currentCell es la fuente de verdad: solo avanza al llegar a una celda,
     // nunca se recalcula desde la posición flotante (eso causaba el tembleque).
@@ -33,6 +34,7 @@ public class EnemyAI : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         rb.bodyType = RigidbodyType2D.Kinematic;
+        animator = GetComponent<Animator>();
 
         gameManager = FindFirstObjectByType<GameManager>();
         moveSpeed *= Random.Range(0.85f, 1.15f);
@@ -61,6 +63,12 @@ public class EnemyAI : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (DialogueManager.IsDialogueActive)
+        {
+            UpdateAnimation(Vector2.zero);
+            return;
+        }
+
         if (mazeController == null || mazeController.Current == null)
             return;
 
@@ -113,17 +121,40 @@ public class EnemyAI : MonoBehaviour
     private void MoveAlongPath()
     {
         if (path == null || pathIndex >= path.Count)
+        {
+            UpdateAnimation(Vector2.zero);
             return;
+        }
 
         Vector2Int step = path[pathIndex];
         Vector3 waypoint = mazeController.CellToWorldPosition(step);
         Vector3 next = Vector3.MoveTowards(transform.position, waypoint, moveSpeed * Time.fixedDeltaTime);
         rb.MovePosition(next);
 
+        Vector2 direction = (next - transform.position).normalized;
+        UpdateAnimation(direction);
+
         if (Vector3.Distance(next, waypoint) < 0.05f)
         {
             currentCell = step;
             pathIndex++;
+        }
+    }
+
+    private void UpdateAnimation(Vector2 dir)
+    {
+        if (animator != null)
+        {
+            if (dir != Vector2.zero)
+            {
+                animator.SetFloat("MoveX", dir.x);
+                animator.SetFloat("MoveY", dir.y);
+                animator.SetBool("IsMoving", true);
+            }
+            else
+            {
+                animator.SetBool("IsMoving", false);
+            }
         }
     }
 

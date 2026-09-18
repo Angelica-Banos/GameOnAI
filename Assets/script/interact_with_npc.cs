@@ -1,34 +1,34 @@
-using UnityEngine;
+Ôªøusing UnityEngine;
 using UnityEngine.Events;
 
 public class interact_with_npc : MonoBehaviour
 {
-    [Header("DetecciÛn")]
+    [Header("Detecci√≥n")]
     [Tooltip("Tag que debe tener el jugador para activar la zona.")]
     [SerializeField] private string targetTag = "Player";
 
-    [Tooltip("Si est· activo, el trigger solo funcionar· una vez (˙til para metas, checkpoints, etc.).")]
+    [Tooltip("Si est√° activo, el trigger solo funcionar√° una vez (√∫til para metas, checkpoints, etc.).")]
     [SerializeField] private bool triggerOnce = false;
 
-    [Header("AcciÛn a Ejecutar")]
-    [Tooltip("Eventos que se disparar·n cuando el jugador entre a la caja.")]
+    [Header("Acci√≥n a Ejecutar")]
+    [Tooltip("Eventos que se disparar√°n cuando el jugador entre a la caja.")]
     public UnityEvent onPlayerEnter;
 
     private bool hasTriggered = false;
 
     private void Awake()
     {
-        // Asegura que el BoxCollider2D estÈ configurado como Trigger autom·ticamente
+        // Asegura que el BoxCollider2D est√© configurado como Trigger autom√°ticamente
         BoxCollider2D boxCollider = GetComponent<BoxCollider2D>();
         boxCollider.isTrigger = true;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Si ya se usÛ y est· marcado para una sola vez, no hace nada
+        // Si ya se us√≥ y est√° marcado para una sola vez, no hace nada
         if (triggerOnce && hasTriggered) return;
 
-        // Comprobamos si el objeto que entrÛ tiene la etiqueta asignada
+        // Comprobamos si el objeto que entr√≥ tiene la etiqueta asignada
         if (collision.CompareTag(targetTag))
         {
             hasTriggered = true;
@@ -37,18 +37,18 @@ public class interact_with_npc : MonoBehaviour
     }
 
     /// <summary>
-    /// AquÌ se ejecuta la acciÛn. Puedes agregar cÛdigo directo aquÌ
+    /// Aqu√≠ se ejecuta la acci√≥n. Puedes agregar c√≥digo directo aqu√≠
     /// o configurarlo visualmente en el Inspector mediante onPlayerEnter.
     /// </summary>
     private void EjecutarAccion(GameObject player)
     {
         // 1. Mensaje de prueba en consola
-        Debug.Log($"°El jugador entrÛ en la zona de: {gameObject.name}!");
+        Debug.Log($"¬°El jugador entr√≥ en la zona de: {gameObject.name}!");
 
-        // 2. Dispara cualquier funciÛn conectada desde el Inspector
+        // 2. Dispara cualquier funci√≥n conectada desde el Inspector
         onPlayerEnter?.Invoke();
 
-        // 3. (Opcional) CÛdigo C# que quieras agregar en el futuro:
+        // 3. (Opcional) C√≥digo C# que quieras agregar en el futuro:
         // Por ejemplo:
         // - player.GetComponent<PlayerMovement>().enabled = false;
         // - Destroy(gameObject);
