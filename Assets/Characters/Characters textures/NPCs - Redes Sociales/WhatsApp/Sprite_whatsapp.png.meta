@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 8c3081a9d47092a4b815b106747c1628
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7485730890945286135
+    second: Sprite_whatsapp_0
+  - first:
+      213: -8208152136397586861
+    second: Sprite_whatsapp_1
+  - first:
+      213: 5667105601623414477
+    second: Sprite_whatsapp_2
+  - first:
+      213: -8615848111555677884
+    second: Sprite_whatsapp_3
+  - first:
+      213: 5856397245343874303
+    second: Sprite_whatsapp_4
+  - first:
+      213: -3538956998336436319
+    second: Sprite_whatsapp_5
+  - first:
+      213: 752341361026322331
+    second: Sprite_whatsapp_6
+  - first:
+      213: 2109846013388270042
+    second: Sprite_whatsapp_7
+  - first:
+      213: -5165602331382740468
+    second: Sprite_whatsapp_8
+  - first:
+      213: -3826122672246884141
+    second: Sprite_whatsapp_9
+  - first:
+      213: 5711911807448993880
+    second: Sprite_whatsapp_10
+  - first:
+      213: -7083768551979750757
+    second: Sprite_whatsapp_11
+  - first:
+      213: 404449999420354163
+    second: Sprite_whatsapp_12
+  - first:
+      213: -2814305318417548673
+    second: Sprite_whatsapp_13
+  - first:
+      213: -8269377024897124657
+    second: Sprite_whatsapp_14
+  - first:
+      213: -3153057832560717811
+    second: Sprite_whatsapp_15
+  - first:
+      213: -5123473702833908231
+    second: Sprite_whatsapp_16
+  - first:
+      213: 3655921640168520491
+    second: Sprite_whatsapp_17
+  - first:
+      213: 1365380694534373966
+    second: Sprite_whatsapp_18
+  - first:
+      213: 5403296919059294568
+    second: Sprite_whatsapp_19
+  - first:
+      213: -6408764482827731261
+    second: Sprite_whatsapp_20
+  - first:
+      213: -5163094430856560869
+    second: Sprite_whatsapp_21
+  - first:
+      213: -1775855592131622260
+    second: Sprite_whatsapp_22
+  - first:
+      213: 5088418302269073978
+    second: Sprite_whatsapp_23
+  - first:
+      213: -7725685059838075901
+    second: Sprite_whatsapp_24
+  - first:
+      213: 6386623658289588245
+    second: Sprite_whatsapp_25
+  - first:
+      213: 7485988056988845065
+    second: Sprite_whatsapp_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_whatsapp_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff46fe8598a2e760800000000000000
+      internalID: 7485730890945286135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 103
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e78afde19c61e80800000000000000
+      internalID: -8208152136397586861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 103
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6d361e48a95ae40800000000000000
+      internalID: 5667105601623414477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441f0009acb5e6880800000000000000
+      internalID: -8615848111555677884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_4
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc3c40244a164150800000000000000
+      internalID: 5856397245343874303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_5
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 103
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a726c63c5913eec0800000000000000
+      internalID: -3538956998336436319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_6
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 103
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fcec55b7ad07a00800000000000000
+      internalID: 752341361026322331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad928ce45cda74d10800000000000000
+      internalID: 2109846013388270042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_8
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 107
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a80035c081058b0800000000000000
+      internalID: -5165602331382740468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_9
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 142
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8f7a583b1e6eac0800000000000000
+      internalID: -3826122672246884141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_10
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8505b5f9689c44f40800000000000000
+      internalID: 5711911807448993880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_11
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 0
+        width: 111
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae92c880661bd90800000000000000
+      internalID: -7083768551979750757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_12
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 0
+        width: 107
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e6bd0b125ec9500800000000000000
+      internalID: 404449999420354163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_13
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 0
+        width: 107
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aba36493491f8d0800000000000000
+      internalID: -2814305318417548673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_14
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 0
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6fa3da8654d3d80800000000000000
+      internalID: -8269377024897124657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_15
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 134
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0094fd5b961e34d0800000000000000
+      internalID: -3153057832560717811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_16
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 112
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5978600d3c5e8b0800000000000000
+      internalID: -5123473702833908231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_17
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 138
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b78e0ac517cb230800000000000000
+      internalID: 3655921640168520491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_18
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 107
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42c5e0f18ec2f210800000000000000
+      internalID: 1365380694534373966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_19
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 0
+        width: 111
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ed748bed5cfa40800000000000000
+      internalID: 5403296919059294568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_20
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 0
+        width: 111
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceb9ef68ae7f07a0800000000000000
+      internalID: -6408764482827731261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_21
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 0
+        width: 111
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f3ffa68f00958b0800000000000000
+      internalID: -5163094430856560869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_22
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 0
+        width: 111
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8a927fb4ea57e0800000000000000
+      internalID: -1775855592131622260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_23
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 0
+        width: 103
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a285f7c71bd9640800000000000000
+      internalID: 5088418302269073978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_24
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 0
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c1fc9de5ad8c490800000000000000
+      internalID: -7725685059838075901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_25
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 0
+        width: 111
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518e4722168d1a850800000000000000
+      internalID: 6386623658289588245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_whatsapp_26
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 0
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90403a1b97293e760800000000000000
+      internalID: 7485988056988845065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite_whatsapp_0: 7485730890945286135
+      Sprite_whatsapp_1: -8208152136397586861
+      Sprite_whatsapp_10: 5711911807448993880
+      Sprite_whatsapp_11: -7083768551979750757
+      Sprite_whatsapp_12: 404449999420354163
+      Sprite_whatsapp_13: -2814305318417548673
+      Sprite_whatsapp_14: -8269377024897124657
+      Sprite_whatsapp_15: -3153057832560717811
+      Sprite_whatsapp_16: -5123473702833908231
+      Sprite_whatsapp_17: 3655921640168520491
+      Sprite_whatsapp_18: 1365380694534373966
+      Sprite_whatsapp_19: 5403296919059294568
+      Sprite_whatsapp_2: 5667105601623414477
+      Sprite_whatsapp_20: -6408764482827731261
+      Sprite_whatsapp_21: -5163094430856560869
+      Sprite_whatsapp_22: -1775855592131622260
+      Sprite_whatsapp_23: 5088418302269073978
+      Sprite_whatsapp_24: -7725685059838075901
+      Sprite_whatsapp_25: 6386623658289588245
+      Sprite_whatsapp_26: 7485988056988845065
+      Sprite_whatsapp_3: -8615848111555677884
+      Sprite_whatsapp_4: 5856397245343874303
+      Sprite_whatsapp_5: -3538956998336436319
+      Sprite_whatsapp_6: 752341361026322331
+      Sprite_whatsapp_7: 2109846013388270042
+      Sprite_whatsapp_8: -5165602331382740468
+      Sprite_whatsapp_9: -3826122672246884141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

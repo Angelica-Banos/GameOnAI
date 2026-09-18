@@ -1,0 +1,2665 @@
+fileFormatVersion: 2
+guid: e1cd60b87da867240945e63196c7b065
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -987005960106790369
+    second: Tiktok_idle_0
+  - first:
+      213: -580316509057852230
+    second: Tiktok_idle_1
+  - first:
+      213: -6206486509916998594
+    second: Tiktok_idle_2
+  - first:
+      213: -7724105778691866658
+    second: Tiktok_idle_3
+  - first:
+      213: 2162931829910021868
+    second: Tiktok_idle_4
+  - first:
+      213: -3124224489807730174
+    second: Tiktok_idle_5
+  - first:
+      213: -5658717017593112844
+    second: Tiktok_idle_6
+  - first:
+      213: 1271040343986913138
+    second: Tiktok_idle_7
+  - first:
+      213: 6886408753319434088
+    second: Tiktok_idle_8
+  - first:
+      213: -991129091499176364
+    second: Tiktok_idle_9
+  - first:
+      213: -7733477879035707197
+    second: Tiktok_idle_10
+  - first:
+      213: -5623639952986613041
+    second: Tiktok_idle_11
+  - first:
+      213: -3665296382775224501
+    second: Tiktok_idle_12
+  - first:
+      213: 8838751610525304018
+    second: Tiktok_idle_13
+  - first:
+      213: 3110296703163141186
+    second: Tiktok_idle_14
+  - first:
+      213: 3080011678624632875
+    second: Tiktok_idle_15
+  - first:
+      213: 7483155509786315876
+    second: Tiktok_idle_16
+  - first:
+      213: -7213697422427887839
+    second: Tiktok_idle_17
+  - first:
+      213: -9115509430331922545
+    second: Tiktok_idle_18
+  - first:
+      213: -6917045312842604094
+    second: Tiktok_idle_19
+  - first:
+      213: -2389572160672671567
+    second: Tiktok_idle_20
+  - first:
+      213: 5419010818091328605
+    second: Tiktok_idle_21
+  - first:
+      213: 702490503748643985
+    second: Tiktok_idle_22
+  - first:
+      213: 5077935297569144603
+    second: Tiktok_idle_23
+  - first:
+      213: 8822883469176350425
+    second: Tiktok_idle_24
+  - first:
+      213: -3539306434478187523
+    second: Tiktok_idle_25
+  - first:
+      213: -7445315262002711954
+    second: Tiktok_idle_26
+  - first:
+      213: 2520099865737988905
+    second: Tiktok_idle_27
+  - first:
+      213: -466649988640372400
+    second: Tiktok_idle_28
+  - first:
+      213: 2477693572848107490
+    second: Tiktok_idle_29
+  - first:
+      213: -852276475173133758
+    second: Tiktok_idle_30
+  - first:
+      213: -8255476686289693223
+    second: Tiktok_idle_31
+  - first:
+      213: 5867493777385680430
+    second: Tiktok_idle_32
+  - first:
+      213: -8070204878301447742
+    second: Tiktok_idle_33
+  - first:
+      213: -7701143812468786536
+    second: Tiktok_idle_34
+  - first:
+      213: 379892300200256885
+    second: Tiktok_idle_35
+  - first:
+      213: -39774075657735053
+    second: Tiktok_idle_36
+  - first:
+      213: -1571372635884167582
+    second: Tiktok_idle_37
+  - first:
+      213: 5587988254149804447
+    second: Tiktok_idle_38
+  - first:
+      213: 8386287797444383859
+    second: Tiktok_idle_39
+  - first:
+      213: 7762082033783405341
+    second: Tiktok_idle_40
+  - first:
+      213: 7626391556853395056
+    second: Tiktok_idle_41
+  - first:
+      213: -3937303749102535414
+    second: Tiktok_idle_42
+  - first:
+      213: -447860757105504074
+    second: Tiktok_idle_43
+  - first:
+      213: 6954918328982630912
+    second: Tiktok_idle_44
+  - first:
+      213: -4108583739158881903
+    second: Tiktok_idle_45
+  - first:
+      213: -3019044321576030949
+    second: Tiktok_idle_46
+  - first:
+      213: -6516140611224434996
+    second: Tiktok_idle_47
+  - first:
+      213: 7223043650903240530
+    second: Tiktok_idle_48
+  - first:
+      213: -538278278764239335
+    second: Tiktok_idle_49
+  - first:
+      213: -68413946044246040
+    second: Tiktok_idle_50
+  - first:
+      213: -1878169423209127669
+    second: Tiktok_idle_51
+  - first:
+      213: 2975178453581885017
+    second: Tiktok_idle_52
+  - first:
+      213: -2459267472881736171
+    second: Tiktok_idle_53
+  - first:
+      213: 8978093123220219098
+    second: Tiktok_idle_54
+  - first:
+      213: -1837516574802078027
+    second: Tiktok_idle_55
+  - first:
+      213: -4859232647228528744
+    second: Tiktok_idle_56
+  - first:
+      213: 6713866677983818360
+    second: Tiktok_idle_57
+  - first:
+      213: -1682647142946955641
+    second: Tiktok_idle_58
+  - first:
+      213: -2170642019192328964
+    second: Tiktok_idle_59
+  - first:
+      213: 137941987577000418
+    second: Tiktok_idle_60
+  - first:
+      213: -1878843108526552213
+    second: Tiktok_idle_61
+  - first:
+      213: -9035329868405902838
+    second: Tiktok_idle_62
+  - first:
+      213: 3099566802837458593
+    second: Tiktok_idle_63
+  - first:
+      213: -4470338984096290914
+    second: Tiktok_idle_64
+  - first:
+      213: -100019921850295044
+    second: Tiktok_idle_65
+  - first:
+      213: 3906099263006303690
+    second: Tiktok_idle_66
+  - first:
+      213: 165874306684447096
+    second: Tiktok_idle_67
+  - first:
+      213: 1846115488185352739
+    second: Tiktok_idle_68
+  - first:
+      213: 2243515204670692229
+    second: Tiktok_idle_69
+  - first:
+      213: -7579436731669567898
+    second: Tiktok_idle_70
+  - first:
+      213: -7077391181685454611
+    second: Tiktok_idle_71
+  - first:
+      213: -5789571924603443494
+    second: Tiktok_idle_72
+  - first:
+      213: -8505305978989901628
+    second: Tiktok_idle_73
+  - first:
+      213: 1933135080210601005
+    second: Tiktok_idle_74
+  - first:
+      213: -3814576802573323063
+    second: Tiktok_idle_75
+  - first:
+      213: 7813038513963737113
+    second: Tiktok_idle_76
+  - first:
+      213: -6475288827812920865
+    second: Tiktok_idle_77
+  - first:
+      213: -4912083198129391042
+    second: Tiktok_idle_78
+  - first:
+      213: -694963277468357514
+    second: Tiktok_idle_79
+  - first:
+      213: -9007133667426307187
+    second: Tiktok_idle_80
+  - first:
+      213: 8132753639125923280
+    second: Tiktok_idle_81
+  - first:
+      213: -42259123093032600
+    second: Tiktok_idle_82
+  - first:
+      213: -2682347879024436660
+    second: Tiktok_idle_83
+  - first:
+      213: 6767372696845069784
+    second: Tiktok_idle_84
+  - first:
+      213: -1461651010752795752
+    second: Tiktok_idle_85
+  - first:
+      213: 8973155452270375855
+    second: Tiktok_idle_86
+  - first:
+      213: 3422193613211173714
+    second: Tiktok_idle_87
+  - first:
+      213: 3336810494072164706
+    second: Tiktok_idle_88
+  - first:
+      213: 1893512974250413743
+    second: Tiktok_idle_89
+  - first:
+      213: -833036099264597502
+    second: Tiktok_idle_90
+  - first:
+      213: 5963004522335447217
+    second: Tiktok_idle_91
+  - first:
+      213: -7830212191195811036
+    second: Tiktok_idle_92
+  - first:
+      213: 6854700278287221221
+    second: Tiktok_idle_93
+  - first:
+      213: -2359778004192315486
+    second: Tiktok_idle_94
+  - first:
+      213: 5698186957314897037
+    second: Tiktok_idle_95
+  - first:
+      213: 2210854859221918005
+    second: Tiktok_idle_96
+  - first:
+      213: 6912611440339539767
+    second: Tiktok_idle_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiktok_idle_0
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1234a40f437d42f0800000000000000
+      internalID: -987005960106790369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_1
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1293
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcdf4ca53d42f7f0800000000000000
+      internalID: -580316509057852230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b42117612ed9a0800000000000000
+      internalID: -6206486509916998594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf7785e7b67ec490800000000000000
+      internalID: -7724105778691866658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce62c232a07440e10800000000000000
+      internalID: 2162931829910021868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a2f6e116684a4d0800000000000000
+      internalID: -3124224489807730174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f697e98ad23871b0800000000000000
+      internalID: -5658717017593112844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1250
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fb7866574a3a110800000000000000
+      internalID: 1271040343986913138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867debf7640719f50800000000000000
+      internalID: 6886408753319434088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1245
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ec2aea75dce32f0800000000000000
+      internalID: -991129091499176364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c04cbdb7da2da490800000000000000
+      internalID: -7733477879035707197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1141
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcad9811241d4f1b0800000000000000
+      internalID: -5623639952986613041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1131
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4798240c50422dc0800000000000000
+      internalID: -3665296382775224501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4c54392cd89aa70800000000000000
+      internalID: 8838751610525304018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c8b1a5f5ef92b20800000000000000
+      internalID: 3110296703163141186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20d9789d466eba20800000000000000
+      internalID: 3080011678624632875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c02d7e94289d760800000000000000
+      internalID: 7483155509786315876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127e8030a6cc3eb90800000000000000
+      internalID: -7213697422427887839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1102
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87a75a18743f7180800000000000000
+      internalID: -9115509430331922545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c16cb0afe7b100a0800000000000000
+      internalID: -6917045312842604094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_20
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1093
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b851f5c7c886ded0800000000000000
+      internalID: -2389572160672671567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1093
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54255eb0a1343b40800000000000000
+      internalID: 5419010818091328605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1098
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ce506246fbfb900800000000000000
+      internalID: 702490503748643985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1093
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb604cf33787640800000000000000
+      internalID: 5077935297569144603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1086
+        width: 63
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62ce205cd217a70800000000000000
+      internalID: 8822883469176350425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1072
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5ca5cc8bd1eec0800000000000000
+      internalID: -3539306434478187523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1076
+        width: 93
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62b887573deca890800000000000000
+      internalID: -7445315262002711954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1073
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b82dfc97139f220800000000000000
+      internalID: 2520099865737988905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1084
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05986a8ce402689f0800000000000000
+      internalID: -466649988640372400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1083
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef31e75d29826220800000000000000
+      internalID: 2477693572848107490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1074
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24222e6bf0b1c24f0800000000000000
+      internalID: -852276475173133758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_31
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1083
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d51f2671b7ae6d80800000000000000
+      internalID: -8255476686289693223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e63e2d0868d6150800000000000000
+      internalID: 5867493777385680430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 2536
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b734cb6fd00090800000000000000
+      internalID: -8070204878301447742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 139
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ab995418a002590800000000000000
+      internalID: -7701143812468786536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_35
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 154
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575a756c806a54500800000000000000
+      internalID: 379892300200256885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_36
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 103
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b62d50b1b27ff0800000000000000
+      internalID: -39774075657735053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_37
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eda54c9ec513ae0800000000000000
+      internalID: -1571372635884167582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 0
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9187a1f5b58c8d40800000000000000
+      internalID: 5587988254149804447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_39
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 78
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3749ddeb154126470800000000000000
+      internalID: 8386287797444383859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_40
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf9150c7478bb60800000000000000
+      internalID: 7762082033783405341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_41
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee840f6b266d960800000000000000
+      internalID: 7626391556853395056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_42
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dfde5d913eb59c0800000000000000
+      internalID: -3937303749102535414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_43
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b093e7a301e8c9f0800000000000000
+      internalID: -447860757105504074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_44
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 36
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002fcd81f55d48060800000000000000
+      internalID: 6954918328982630912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_45
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1991d718bd06bf6c0800000000000000
+      internalID: -4108583739158881903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_46
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dec436f233a16d0800000000000000
+      internalID: -3019044321576030949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_47
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 45
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6887953a40295a0800000000000000
+      internalID: -6516140611224434996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_48
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f6a316ee76d3460800000000000000
+      internalID: 7223043650903240530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_49
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916e2f3e1c6a788f0800000000000000
+      internalID: -538278278764239335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_50
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e79958e0e1fc0ff0800000000000000
+      internalID: -68413946044246040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_51
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01ae9d4cd66fe5e0800000000000000
+      internalID: -1878169423209127669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_52
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 65
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ee4255a05f94920800000000000000
+      internalID: 2975178453581885017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_53
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516263f534deeddd0800000000000000
+      internalID: -2459267472881736171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_54
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad42be9a028989c70800000000000000
+      internalID: 8978093123220219098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_55
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 50
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6970a2964df76e0800000000000000
+      internalID: -1837516574802078027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_56
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 36
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89766f417a9809cb0800000000000000
+      internalID: -4859232647228528744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_57
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 45
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872be8a0c227c2d50800000000000000
+      internalID: 6713866677983818360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_58
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e125aa65906a8e0800000000000000
+      internalID: -1682647142946955641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_59
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc2187859450e1e0800000000000000
+      internalID: -2170642019192328964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_60
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 112
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e17321c1811ae100800000000000000
+      internalID: 137941987577000418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_61
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 122
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b8597b5220de5e0800000000000000
+      internalID: -1878843108526552213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 112
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02703d1b5f0c9280800000000000000
+      internalID: -9035329868405902838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_63
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae48b0c59fd30b20800000000000000
+      internalID: 3099566802837458593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_64
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e972c5bf06a26f1c0800000000000000
+      internalID: -4470338984096290914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_65
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 212
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc96a73968ac9ef0800000000000000
+      internalID: -100019921850295044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_66
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5e7e49590453630800000000000000
+      internalID: 3906099263006303690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_67
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 107
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796a479dcd4d4200800000000000000
+      internalID: 165874306684447096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_68
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32282af5148be9910800000000000000
+      internalID: 1846115488185352739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_69
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 198
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b95962131922f10800000000000000
+      internalID: 2243515204670692229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_70
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 174
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666a94b337e60d690800000000000000
+      internalID: -7579436731669567898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_71
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80827c73e08cd90800000000000000
+      internalID: -7077391181685454611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_72
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 174
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ef60520f47afa0800000000000000
+      internalID: -5789571924603443494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_73
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c80d40764517f980800000000000000
+      internalID: -8505305978989901628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_74
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249ccefc10e3da10800000000000000
+      internalID: 1933135080210601005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_75
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 169
+        width: 7
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4fb2acb96ef0bc0800000000000000
+      internalID: -3814576802573323063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_76
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 179
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9102149122d7d6c60800000000000000
+      internalID: 7813038513963737113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_77
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1c7206e172326a0800000000000000
+      internalID: -6475288827812920865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_78
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a355c4b56c4dbb0800000000000000
+      internalID: -4912083198129391042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_79
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cae8ac49efa56f0800000000000000
+      internalID: -694963277468357514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_80
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83f79cb6ab300380800000000000000
+      internalID: -9007133667426307187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_81
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 160
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5bdd978585dd070800000000000000
+      internalID: 8132753639125923280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_82
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 169
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861358b2d8dd96ff0800000000000000
+      internalID: -42259123093032600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_83
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 150
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ad9b2d0d266cad0800000000000000
+      internalID: -2682347879024436660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_84
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 141
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dda02adc998aed50800000000000000
+      internalID: 6767372696845069784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_85
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 179
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2d7e562c27bbe0800000000000000
+      internalID: -1461651010752795752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_86
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 179
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37fee875d078c70800000000000000
+      internalID: 8973155452270375855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_87
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 160
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253001ca5f21e7f20800000000000000
+      internalID: 3422193613211173714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_88
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26197f5177bbe4e20800000000000000
+      internalID: 3336810494072164706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_89
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 179
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae0acf840c174a10800000000000000
+      internalID: 1893512974250413743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_90
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202b142d4167074f0800000000000000
+      internalID: -833036099264597502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_91
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 102
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b82adb0509d0c250800000000000000
+      internalID: 5963004522335447217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_92
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42337d39f7f755390800000000000000
+      internalID: -7830212191195811036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_93
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1c419d599c02f50800000000000000
+      internalID: 6854700278287221221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_94
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a736576862604fd0800000000000000
+      internalID: -2359778004192315486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_95
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 112
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84b48ee8d6041f40800000000000000
+      internalID: 5698186957314897037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_96
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 217
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5316ed5e7c88eae10800000000000000
+      internalID: 2210854859221918005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_idle_97
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 103
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7375dbbfa778eef50800000000000000
+      internalID: 6912611440339539767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiktok_idle_0: -987005960106790369
+      Tiktok_idle_1: -580316509057852230
+      Tiktok_idle_10: -7733477879035707197
+      Tiktok_idle_11: -5623639952986613041
+      Tiktok_idle_12: -3665296382775224501
+      Tiktok_idle_13: 8838751610525304018
+      Tiktok_idle_14: 3110296703163141186
+      Tiktok_idle_15: 3080011678624632875
+      Tiktok_idle_16: 7483155509786315876
+      Tiktok_idle_17: -7213697422427887839
+      Tiktok_idle_18: -9115509430331922545
+      Tiktok_idle_19: -6917045312842604094
+      Tiktok_idle_2: -6206486509916998594
+      Tiktok_idle_20: -2389572160672671567
+      Tiktok_idle_21: 5419010818091328605
+      Tiktok_idle_22: 702490503748643985
+      Tiktok_idle_23: 5077935297569144603
+      Tiktok_idle_24: 8822883469176350425
+      Tiktok_idle_25: -3539306434478187523
+      Tiktok_idle_26: -7445315262002711954
+      Tiktok_idle_27: 2520099865737988905
+      Tiktok_idle_28: -466649988640372400
+      Tiktok_idle_29: 2477693572848107490
+      Tiktok_idle_3: -7724105778691866658
+      Tiktok_idle_30: -852276475173133758
+      Tiktok_idle_31: -8255476686289693223
+      Tiktok_idle_32: 5867493777385680430
+      Tiktok_idle_33: -8070204878301447742
+      Tiktok_idle_34: -7701143812468786536
+      Tiktok_idle_35: 379892300200256885
+      Tiktok_idle_36: -39774075657735053
+      Tiktok_idle_37: -1571372635884167582
+      Tiktok_idle_38: 5587988254149804447
+      Tiktok_idle_39: 8386287797444383859
+      Tiktok_idle_4: 2162931829910021868
+      Tiktok_idle_40: 7762082033783405341
+      Tiktok_idle_41: 7626391556853395056
+      Tiktok_idle_42: -3937303749102535414
+      Tiktok_idle_43: -447860757105504074
+      Tiktok_idle_44: 6954918328982630912
+      Tiktok_idle_45: -4108583739158881903
+      Tiktok_idle_46: -3019044321576030949
+      Tiktok_idle_47: -6516140611224434996
+      Tiktok_idle_48: 7223043650903240530
+      Tiktok_idle_49: -538278278764239335
+      Tiktok_idle_5: -3124224489807730174
+      Tiktok_idle_50: -68413946044246040
+      Tiktok_idle_51: -1878169423209127669
+      Tiktok_idle_52: 2975178453581885017
+      Tiktok_idle_53: -2459267472881736171
+      Tiktok_idle_54: 8978093123220219098
+      Tiktok_idle_55: -1837516574802078027
+      Tiktok_idle_56: -4859232647228528744
+      Tiktok_idle_57: 6713866677983818360
+      Tiktok_idle_58: -1682647142946955641
+      Tiktok_idle_59: -2170642019192328964
+      Tiktok_idle_6: -5658717017593112844
+      Tiktok_idle_60: 137941987577000418
+      Tiktok_idle_61: -1878843108526552213
+      Tiktok_idle_62: -9035329868405902838
+      Tiktok_idle_63: 3099566802837458593
+      Tiktok_idle_64: -4470338984096290914
+      Tiktok_idle_65: -100019921850295044
+      Tiktok_idle_66: 3906099263006303690
+      Tiktok_idle_67: 165874306684447096
+      Tiktok_idle_68: 1846115488185352739
+      Tiktok_idle_69: 2243515204670692229
+      Tiktok_idle_7: 1271040343986913138
+      Tiktok_idle_70: -7579436731669567898
+      Tiktok_idle_71: -7077391181685454611
+      Tiktok_idle_72: -5789571924603443494
+      Tiktok_idle_73: -8505305978989901628
+      Tiktok_idle_74: 1933135080210601005
+      Tiktok_idle_75: -3814576802573323063
+      Tiktok_idle_76: 7813038513963737113
+      Tiktok_idle_77: -6475288827812920865
+      Tiktok_idle_78: -4912083198129391042
+      Tiktok_idle_79: -694963277468357514
+      Tiktok_idle_8: 6886408753319434088
+      Tiktok_idle_80: -9007133667426307187
+      Tiktok_idle_81: 8132753639125923280
+      Tiktok_idle_82: -42259123093032600
+      Tiktok_idle_83: -2682347879024436660
+      Tiktok_idle_84: 6767372696845069784
+      Tiktok_idle_85: -1461651010752795752
+      Tiktok_idle_86: 8973155452270375855
+      Tiktok_idle_87: 3422193613211173714
+      Tiktok_idle_88: 3336810494072164706
+      Tiktok_idle_89: 1893512974250413743
+      Tiktok_idle_9: -991129091499176364
+      Tiktok_idle_90: -833036099264597502
+      Tiktok_idle_91: 5963004522335447217
+      Tiktok_idle_92: -7830212191195811036
+      Tiktok_idle_93: 6854700278287221221
+      Tiktok_idle_94: -2359778004192315486
+      Tiktok_idle_95: 5698186957314897037
+      Tiktok_idle_96: 2210854859221918005
+      Tiktok_idle_97: 6912611440339539767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
