@@ -35,8 +35,7 @@ public class playerMovement : MonoBehaviour
 
         // 1. Lectura de Teclado (WASD y Flechas) con el nuevo Input System
         if (Keyboard.current != null)
-        {
-            if (Keyboard.current.wKey.isPressed || Keyboard.current.upArrowKey.isPressed)
+        {                if (Keyboard.current.wKey.isPressed || Keyboard.current.upArrowKey.isPressed)
                 movementInput.y += 1f;
 
             if (Keyboard.current.sKey.isPressed || Keyboard.current.downArrowKey.isPressed)
