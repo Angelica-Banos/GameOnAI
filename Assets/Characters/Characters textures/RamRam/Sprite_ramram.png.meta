@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 5782ddf31d5c421419d95d2c26691415
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 709151946371620854
+    second: Sprite_ramram_0
+  - first:
+      213: 5750001358816092346
+    second: Sprite_ramram_1
+  - first:
+      213: -8269799298816949698
+    second: Sprite_ramram_2
+  - first:
+      213: -1409574144234569308
+    second: Sprite_ramram_3
+  - first:
+      213: -7563350550821341866
+    second: Sprite_ramram_4
+  - first:
+      213: -2256675375735855326
+    second: Sprite_ramram_5
+  - first:
+      213: 7327382953084451994
+    second: Sprite_ramram_6
+  - first:
+      213: 8917047032542967432
+    second: Sprite_ramram_7
+  - first:
+      213: 946853434587977603
+    second: Sprite_ramram_8
+  - first:
+      213: -221609010815997104
+    second: Sprite_ramram_9
+  - first:
+      213: -6885410129696167438
+    second: Sprite_ramram_10
+  - first:
+      213: -8671239658800032082
+    second: Sprite_ramram_11
+  - first:
+      213: 6902573140996798139
+    second: Sprite_ramram_12
+  - first:
+      213: -4386126739334809874
+    second: Sprite_ramram_13
+  - first:
+      213: -7882755149795818531
+    second: Sprite_ramram_14
+  - first:
+      213: -6259272845694492620
+    second: Sprite_ramram_15
+  - first:
+      213: -3424662341548178415
+    second: Sprite_ramram_16
+  - first:
+      213: -6667396325027702279
+    second: Sprite_ramram_17
+  - first:
+      213: 4390184948951132263
+    second: Sprite_ramram_18
+  - first:
+      213: -8203758113398211093
+    second: Sprite_ramram_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_ramram_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 119
+        width: 262
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffd14f10f967d900800000000000000
+      internalID: 709151946371620854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_1
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 119
+        width: 262
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab02f3265cb1ccf40800000000000000
+      internalID: 5750001358816092346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_2
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 119
+        width: 262
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32cd3e5a55cb3d80800000000000000
+      internalID: -8269799298816949698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_3
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 119
+        width: 262
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1c258b8cf207ce0800000000000000
+      internalID: -1409574144234569308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_4
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 119
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f9821fb4990790800000000000000
+      internalID: -7563350550821341866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_5
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 119
+        width: 242
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227a4efb3bdaea0e0800000000000000
+      internalID: -2256675375735855326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_6
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 119
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf9d349f710b560800000000000000
+      internalID: 7327382953084451994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_7
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 119
+        width: 242
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886bc241807bfbb70800000000000000
+      internalID: 8917047032542967432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_8
+      rect:
+        serializedVersion: 2
+        x: 5319
+        y: 119
+        width: 252
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38799fe9e26e32d00800000000000000
+      internalID: 946853434587977603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_9
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 119
+        width: 242
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b694f57cfacecf0800000000000000
+      internalID: -221609010815997104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_10
+      rect:
+        serializedVersion: 2
+        x: 6609
+        y: 119
+        width: 242
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9659ea7fb1270a0800000000000000
+      internalID: -6885410129696167438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_11
+      rect:
+        serializedVersion: 2
+        x: 7249
+        y: 119
+        width: 242
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d1f6f87199a780800000000000000
+      internalID: -8671239658800032082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_12
+      rect:
+        serializedVersion: 2
+        x: 7869
+        y: 119
+        width: 272
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6344943bddacf50800000000000000
+      internalID: 6902573140996798139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_13
+      rect:
+        serializedVersion: 2
+        x: 8509
+        y: 119
+        width: 272
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee63b1228f85123c0800000000000000
+      internalID: -4386126739334809874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_14
+      rect:
+        serializedVersion: 2
+        x: 9149
+        y: 119
+        width: 272
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd30a05b4f3da9290800000000000000
+      internalID: -7882755149795818531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_15
+      rect:
+        serializedVersion: 2
+        x: 9789
+        y: 119
+        width: 272
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430a12882889229a0800000000000000
+      internalID: -6259272845694492620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_16
+      rect:
+        serializedVersion: 2
+        x: 10429
+        y: 119
+        width: 272
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1140d58beb72970d0800000000000000
+      internalID: -3424662341548178415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_17
+      rect:
+        serializedVersion: 2
+        x: 11069
+        y: 129
+        width: 272
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f99af52e56a873a0800000000000000
+      internalID: -6667396325027702279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_18
+      rect:
+        serializedVersion: 2
+        x: 11709
+        y: 119
+        width: 272
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768af7c63f11dec30800000000000000
+      internalID: 4390184948951132263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_ramram_19
+      rect:
+        serializedVersion: 2
+        x: 12349
+        y: 129
+        width: 272
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedbba31675662e80800000000000000
+      internalID: -8203758113398211093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite_ramram_0: 709151946371620854
+      Sprite_ramram_1: 5750001358816092346
+      Sprite_ramram_10: -6885410129696167438
+      Sprite_ramram_11: -8671239658800032082
+      Sprite_ramram_12: 6902573140996798139
+      Sprite_ramram_13: -4386126739334809874
+      Sprite_ramram_14: -7882755149795818531
+      Sprite_ramram_15: -6259272845694492620
+      Sprite_ramram_16: -3424662341548178415
+      Sprite_ramram_17: -6667396325027702279
+      Sprite_ramram_18: 4390184948951132263
+      Sprite_ramram_19: -8203758113398211093
+      Sprite_ramram_2: -8269799298816949698
+      Sprite_ramram_3: -1409574144234569308
+      Sprite_ramram_4: -7563350550821341866
+      Sprite_ramram_5: -2256675375735855326
+      Sprite_ramram_6: 7327382953084451994
+      Sprite_ramram_7: 8917047032542967432
+      Sprite_ramram_8: 946853434587977603
+      Sprite_ramram_9: -221609010815997104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

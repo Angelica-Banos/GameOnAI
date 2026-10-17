@@ -50,6 +50,8 @@ namespace Maze
                 Braid(maze, settings.braiding);
 
             maze.Seed = seed;
+            maze.Start = start;
+            maze.Exit = maze.FindFarthestCell(start);
             return maze;
         }
 

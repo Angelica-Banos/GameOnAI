@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: c6f97cb1de8d6614db7748f494e00873
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8288885447412451445
+    second: Snap_Expresiones_0
+  - first:
+      213: -2358805080279678433
+    second: Snap_Expresiones_1
+  - first:
+      213: -7643551955179687422
+    second: Snap_Expresiones_2
+  - first:
+      213: -5688840669202061696
+    second: Snap_Expresiones_3
+  - first:
+      213: -6619685614113285767
+    second: Snap_Expresiones_4
+  - first:
+      213: -6500959846464863191
+    second: Snap_Expresiones_5
+  - first:
+      213: -5585245865555006070
+    second: Snap_Expresiones_6
+  - first:
+      213: 8577895515382085702
+    second: Snap_Expresiones_7
+  - first:
+      213: -8792250717847901243
+    second: Snap_Expresiones_8
+  - first:
+      213: 6111539760901297665
+    second: Snap_Expresiones_9
+  - first:
+      213: 2913186840167026005
+    second: Snap_Expresiones_10
+  - first:
+      213: -4517569792225479244
+    second: Snap_Expresiones_11
+  - first:
+      213: -2728461013517045884
+    second: Snap_Expresiones_12
+  - first:
+      213: -80956418951932521
+    second: Snap_Expresiones_13
+  - first:
+      213: -5711374121901683723
+    second: Snap_Expresiones_14
+  - first:
+      213: -239090324439696798
+    second: Snap_Expresiones_15
+  - first:
+      213: -5454244755814451138
+    second: Snap_Expresiones_16
+  - first:
+      213: -2497598613267973385
+    second: Snap_Expresiones_17
+  - first:
+      213: 6216626068214015732
+    second: Snap_Expresiones_18
+  - first:
+      213: 7441508982099445489
+    second: Snap_Expresiones_19
+  - first:
+      213: -4323204912333615686
+    second: Snap_Expresiones_20
+  - first:
+      213: -3646865250979080348
+    second: Snap_Expresiones_21
+  - first:
+      213: -5474382671723813431
+    second: Snap_Expresiones_22
+  - first:
+      213: 5303792593247488417
+    second: Snap_Expresiones_23
+  - first:
+      213: 2159113087420923080
+    second: Snap_Expresiones_24
+  - first:
+      213: -2827454156280198085
+    second: Snap_Expresiones_25
+  - first:
+      213: 2008441823286188175
+    second: Snap_Expresiones_26
+  - first:
+      213: -3186593159466823873
+    second: Snap_Expresiones_27
+  - first:
+      213: 3257130107728438242
+    second: Snap_Expresiones_28
+  - first:
+      213: 4619218053771223495
+    second: Snap_Expresiones_29
+  - first:
+      213: -3259617196086062520
+    second: Snap_Expresiones_30
+  - first:
+      213: 2512389609990018828
+    second: Snap_Expresiones_31
+  - first:
+      213: 7035909537730585508
+    second: Snap_Expresiones_32
+  - first:
+      213: 5156579833799522561
+    second: Snap_Expresiones_33
+  - first:
+      213: -4714435781714114851
+    second: Snap_Expresiones_34
+  - first:
+      213: -500407701788947444
+    second: Snap_Expresiones_35
+  - first:
+      213: 6790071109405426005
+    second: Snap_Expresiones_36
+  - first:
+      213: 7138140055873342955
+    second: Snap_Expresiones_37
+  - first:
+      213: 503385636119104821
+    second: Snap_Expresiones_38
+  - first:
+      213: 183634317495908814
+    second: Snap_Expresiones_39
+  - first:
+      213: -2782070818014023078
+    second: Snap_Expresiones_40
+  - first:
+      213: 6206481075236437501
+    second: Snap_Expresiones_41
+  - first:
+      213: 4413261054416703830
+    second: Snap_Expresiones_42
+  - first:
+      213: 5659252218920554251
+    second: Snap_Expresiones_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snap_Expresiones_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788ce4e569080370800000000000000
+      internalID: 8288885447412451445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f120b87e647d34fd0800000000000000
+      internalID: -2358805080279678433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202b5497ef5ace590800000000000000
+      internalID: -7643551955179687422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0866a685d8d2d01b0800000000000000
+      internalID: -5688840669202061696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979930ea1072224a0800000000000000
+      internalID: -6619685614113285767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92442649673f7c5a0800000000000000
+      internalID: -6500959846464863191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8def582a783d72b0800000000000000
+      internalID: -5585245865555006070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648f3ca068eca0770800000000000000
+      internalID: 8577895515382085702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cba0823e86abf580800000000000000
+      internalID: -8792250717847901243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106923f380d80d450800000000000000
+      internalID: 6111539760901297665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d8f741ff7bd6820800000000000000
+      internalID: 2913186840167026005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 59
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b57d56853e5e41c0800000000000000
+      internalID: -4517569792225479244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f60d90a2f822ad0800000000000000
+      internalID: -2728461013517045884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795151ed09260eef0800000000000000
+      internalID: -80956418951932521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb01bc0f7f1db0b0800000000000000
+      internalID: -5711374121901683723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26af98edd949eacf0800000000000000
+      internalID: -239090324439696798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3874abda41ae44b0800000000000000
+      internalID: -5454244755814451138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa77a84b4fb65dd0800000000000000
+      internalID: -2497598613267973385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f66451d874e54650800000000000000
+      internalID: 6216626068214015732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f68aee0efc854760800000000000000
+      internalID: 7441508982099445489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd812d9904e004c0800000000000000
+      internalID: -4323204912333615686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_21
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4671dab406bb36dc0800000000000000
+      internalID: -3646865250979080348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5295fe6f51704b0800000000000000
+      internalID: -5474382671723813431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_23
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a94dda434bda9940800000000000000
+      internalID: 5303792593247488417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_24
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccfe9dd9e5b6fd10800000000000000
+      internalID: 2159113087420923080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_25
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c8734ec6dd2c8d0800000000000000
+      internalID: -2827454156280198085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_26
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d205723b6fdb10800000000000000
+      internalID: 2008441823286188175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f4a4e9762f6c3d0800000000000000
+      internalID: -3186593159466823873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_28
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e322627396a33d20800000000000000
+      internalID: 3257130107728438242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_29
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 5
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1ea13a852ca1040800000000000000
+      internalID: 4619218053771223495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_30
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842198b2e6383c2d0800000000000000
+      internalID: -3259617196086062520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_31
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0756d00a0dcdd220800000000000000
+      internalID: 2512389609990018828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_32
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3e63c527294a160800000000000000
+      internalID: 7035909537730585508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_33
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1093091c90adf8740800000000000000
+      internalID: 5156579833799522561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_34
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd60a8a72a5f29eb0800000000000000
+      internalID: -4714435781714114851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 8
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c0004b8d13e09f0800000000000000
+      internalID: -500407701788947444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_36
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551c0cbd2bd2b3e50800000000000000
+      internalID: 6790071109405426005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_37
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed4153bf84cf0360800000000000000
+      internalID: 7138140055873342955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_38
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 6
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dc9e9a1926cf600800000000000000
+      internalID: 503385636119104821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_39
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec93ae650766c8200800000000000000
+      internalID: 183634317495908814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_40
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a523b40c4591469d0800000000000000
+      internalID: -2782070818014023078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_41
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 44
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf6a297a9d12650800000000000000
+      internalID: 6206481075236437501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_42
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 44
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d299eb8d0f3d30800000000000000
+      internalID: 4413261054416703830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snap_Expresiones_43
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 44
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc91bb8e3b98e40800000000000000
+      internalID: 5659252218920554251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Snap_Expresiones_0: 8288885447412451445
+      Snap_Expresiones_1: -2358805080279678433
+      Snap_Expresiones_10: 2913186840167026005
+      Snap_Expresiones_11: -4517569792225479244
+      Snap_Expresiones_12: -2728461013517045884
+      Snap_Expresiones_13: -80956418951932521
+      Snap_Expresiones_14: -5711374121901683723
+      Snap_Expresiones_15: -239090324439696798
+      Snap_Expresiones_16: -5454244755814451138
+      Snap_Expresiones_17: -2497598613267973385
+      Snap_Expresiones_18: 6216626068214015732
+      Snap_Expresiones_19: 7441508982099445489
+      Snap_Expresiones_2: -7643551955179687422
+      Snap_Expresiones_20: -4323204912333615686
+      Snap_Expresiones_21: -3646865250979080348
+      Snap_Expresiones_22: -5474382671723813431
+      Snap_Expresiones_23: 5303792593247488417
+      Snap_Expresiones_24: 2159113087420923080
+      Snap_Expresiones_25: -2827454156280198085
+      Snap_Expresiones_26: 2008441823286188175
+      Snap_Expresiones_27: -3186593159466823873
+      Snap_Expresiones_28: 3257130107728438242
+      Snap_Expresiones_29: 4619218053771223495
+      Snap_Expresiones_3: -5688840669202061696
+      Snap_Expresiones_30: -3259617196086062520
+      Snap_Expresiones_31: 2512389609990018828
+      Snap_Expresiones_32: 7035909537730585508
+      Snap_Expresiones_33: 5156579833799522561
+      Snap_Expresiones_34: -4714435781714114851
+      Snap_Expresiones_35: -500407701788947444
+      Snap_Expresiones_36: 6790071109405426005
+      Snap_Expresiones_37: 7138140055873342955
+      Snap_Expresiones_38: 503385636119104821
+      Snap_Expresiones_39: 183634317495908814
+      Snap_Expresiones_4: -6619685614113285767
+      Snap_Expresiones_40: -2782070818014023078
+      Snap_Expresiones_41: 6206481075236437501
+      Snap_Expresiones_42: 4413261054416703830
+      Snap_Expresiones_43: 5659252218920554251
+      Snap_Expresiones_5: -6500959846464863191
+      Snap_Expresiones_6: -5585245865555006070
+      Snap_Expresiones_7: 8577895515382085702
+      Snap_Expresiones_8: -8792250717847901243
+      Snap_Expresiones_9: 6111539760901297665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

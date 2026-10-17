@@ -8,11 +8,13 @@ public class playerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
 
     private Rigidbody2D rb;
+    private Animator animator;
     private Vector2 movementInput;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
 
         // En un juego de vista cenital (Top-Down) desactivamos la gravedad
         rb.gravityScale = 0f;
@@ -20,13 +22,20 @@ public class playerMovement : MonoBehaviour
 
     private void Update()
     {
+        // Si hay un diÃ¡logo activo, detener movimiento
+        if (DialogueManager.IsDialogueActive)
+        {
+            movementInput = Vector2.zero;
+            UpdateAnimation();
+            return;
+        }
+
         // Reiniciamos el vector de entrada cada frame
         movementInput = Vector2.zero;
 
         // 1. Lectura de Teclado (WASD y Flechas) con el nuevo Input System
         if (Keyboard.current != null)
-        {
-            if (Keyboard.current.wKey.isPressed || Keyboard.current.upArrowKey.isPressed)
+        {                if (Keyboard.current.wKey.isPressed || Keyboard.current.upArrowKey.isPressed)
                 movementInput.y += 1f;
 
             if (Keyboard.current.sKey.isPressed || Keyboard.current.downArrowKey.isPressed)
@@ -45,10 +54,29 @@ public class playerMovement : MonoBehaviour
             movementInput = Gamepad.current.leftStick.ReadValue();
         }
 
-        // 3. Normalizar para que no se mueva más rápido en diagonal
+        // 3. Normalizar para que no se mueva mÃ¡s rÃ¡pido en diagonal
         if (movementInput.magnitude > 1f)
         {
             movementInput = movementInput.normalized;
+        }
+
+        UpdateAnimation();
+    }
+
+    private void UpdateAnimation()
+    {
+        if (animator != null)
+        {
+            if (movementInput != Vector2.zero)
+            {
+                animator.SetFloat("MoveX", movementInput.x);
+                animator.SetFloat("MoveY", movementInput.y);
+                animator.SetBool("IsMoving", true);
+            }
+            else
+            {
+                animator.SetBool("IsMoving", false);
+            }
         }
     }
 

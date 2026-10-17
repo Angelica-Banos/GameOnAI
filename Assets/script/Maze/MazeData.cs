@@ -21,6 +21,11 @@ namespace Maze
         public int GridHeight => Height * 2 + 1;
         public int Seed { get; set; }
 
+        // Celda donde empieza a excavarse el laberinto (entrada) y celda más
+        // lejana desde ahí por camino más corto (salida).
+        public Vector2Int Start { get; set; }
+        public Vector2Int Exit { get; set; }
+
         public MazeData(int width, int height)
         {
             Width = width;

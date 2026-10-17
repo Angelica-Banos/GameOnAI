@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4284f9822085a0049a3c1ea860df7615
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6585152637298059748
+    second: Tiktok_expresiones_0
+  - first:
+      213: -7645353773008822212
+    second: Tiktok_expresiones_1
+  - first:
+      213: 9034451322100941061
+    second: Tiktok_expresiones_2
+  - first:
+      213: -279386874919814681
+    second: Tiktok_expresiones_3
+  - first:
+      213: -603620553192720642
+    second: Tiktok_expresiones_4
+  - first:
+      213: 3888793131889614559
+    second: Tiktok_expresiones_5
+  - first:
+      213: -8496234816199468629
+    second: Tiktok_expresiones_6
+  - first:
+      213: -8961142077811160099
+    second: Tiktok_expresiones_7
+  - first:
+      213: 7824599414344017925
+    second: Tiktok_expresiones_8
+  - first:
+      213: -2261867838309635932
+    second: Tiktok_expresiones_9
+  - first:
+      213: -5452850409864649359
+    second: Tiktok_expresiones_10
+  - first:
+      213: -462969197857223555
+    second: Tiktok_expresiones_11
+  - first:
+      213: -2466743379597847610
+    second: Tiktok_expresiones_12
+  - first:
+      213: -3873263989680288217
+    second: Tiktok_expresiones_13
+  - first:
+      213: -4436771519418548120
+    second: Tiktok_expresiones_14
+  - first:
+      213: 4654546853831499765
+    second: Tiktok_expresiones_15
+  - first:
+      213: -970800498309086346
+    second: Tiktok_expresiones_16
+  - first:
+      213: 2504884639933225338
+    second: Tiktok_expresiones_17
+  - first:
+      213: 2913708677334881470
+    second: Tiktok_expresiones_18
+  - first:
+      213: -3362924434159033030
+    second: Tiktok_expresiones_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiktok_expresiones_0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9a0e91f69236b50800000000000000
+      internalID: 6585152637298059748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1337
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30ed91104f36e590800000000000000
+      internalID: -7645353773008822212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1332
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50182626c91d06d70800000000000000
+      internalID: 9034451322100941061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_3
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1334
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e97f751e1b6f1cf0800000000000000
+      internalID: -279386874919814681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_4
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1302
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6b2d31e428f97f0800000000000000
+      internalID: -603620553192720642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_5
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1249
+        width: 35
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde524fefb4c7f530800000000000000
+      internalID: 3888793131889614559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_6
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9df1c137f471a80800000000000000
+      internalID: -8496234816199468629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_7
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1249
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb824622c0a3a380800000000000000
+      internalID: -8961142077811160099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_8
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50864b9f5bf869c60800000000000000
+      internalID: 7824599414344017925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_9
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a86ca85f2b3c90e0800000000000000
+      internalID: -2261867838309635932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 1848
+        height: 1194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175aca251759354b0800000000000000
+      internalID: -5452850409864649359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_11
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1188
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cc5cba7f33399f0800000000000000
+      internalID: -462969197857223555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_12
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1192
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3160337fd54cdd0800000000000000
+      internalID: -2466743379597847610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 863
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e4bcd3ce66f3ac0800000000000000
+      internalID: -3873263989680288217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 849
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860cc736fcb6d62c0800000000000000
+      internalID: -4436771519418548120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 825
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd905e3b5489040800000000000000
+      internalID: 4654546853831499765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 745
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c38e17160782f0800000000000000
+      internalID: -970800498309086346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 458
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a795d8efe4323c220800000000000000
+      internalID: 2504884639933225338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 273
+        width: 20
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d483ca929f6820800000000000000
+      internalID: 2913708677334881470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktok_expresiones_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 199
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35287f6b0e7451d0800000000000000
+      internalID: -3362924434159033030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiktok_expresiones_0: 6585152637298059748
+      Tiktok_expresiones_1: -7645353773008822212
+      Tiktok_expresiones_10: -5452850409864649359
+      Tiktok_expresiones_11: -462969197857223555
+      Tiktok_expresiones_12: -2466743379597847610
+      Tiktok_expresiones_13: -3873263989680288217
+      Tiktok_expresiones_14: -4436771519418548120
+      Tiktok_expresiones_15: 4654546853831499765
+      Tiktok_expresiones_16: -970800498309086346
+      Tiktok_expresiones_17: 2504884639933225338
+      Tiktok_expresiones_18: 2913708677334881470
+      Tiktok_expresiones_19: -3362924434159033030
+      Tiktok_expresiones_2: 9034451322100941061
+      Tiktok_expresiones_3: -279386874919814681
+      Tiktok_expresiones_4: -603620553192720642
+      Tiktok_expresiones_5: 3888793131889614559
+      Tiktok_expresiones_6: -8496234816199468629
+      Tiktok_expresiones_7: -8961142077811160099
+      Tiktok_expresiones_8: 7824599414344017925
+      Tiktok_expresiones_9: -2261867838309635932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
